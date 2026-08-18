@@ -32,6 +32,7 @@ real wages for workers who are male, have a college degree, or are over forty ye
 [[Paper](/files/pay_transparency_manuscript.pdf)] [[Online Appendix](/files/pay_transparency_online_appendix.pdf)] [[Slides](/files/pay_transparency_isi_slides.pdf)]
 
 **Can A More Generous US Unemployment Insurance System Improve Job Outcomes For The Unemployed?**
+
 I study the effects of unemployment insurance (UI) on an unemployed individual’s job outcomes upon re-employment using data from the
 National Longitudinal Survey of Youth. I find that a 10% increase in UI benefits leads to a 2.6% longer unemployment duration
 and 1.9-3.3% higher wages upon re-employment. This increase in wages is not driven by an improvement in match quality, since UI does not affect the match quality between an individual's skills and the skill requirements of their occupation. Instead, a higher UI amount increases the value of remaining unemployed, allowing unemployed individuals to bargain for higher wages.
