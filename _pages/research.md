@@ -2,10 +2,10 @@
 layout: single
 # title: "Research"
 permalink: /research/
+author_profile: true
 ---
 
 ## Job Market Paper
----
 
 **Technical Change, Skill Complementarity and the Stagnating Fortunes of the Young** (Draft coming soon!)  
 (with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
@@ -20,7 +20,6 @@ employer demand towards high-skilled workers, and this explains 36% of the worse
 the unemployment rate for young college graduates.
 
 ## Working Papers
----
 
 **How Much Can I Make? Cross-Firm Pay Transparency’s Effects On the US Labor Market** (Submitted)  
 (with [Raymond He](https://raymondxuanhe.github.io/))  
