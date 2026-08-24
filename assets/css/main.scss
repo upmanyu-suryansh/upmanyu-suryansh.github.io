@@ -46,6 +46,10 @@
   min-height: calc(100vh - 200px);
 }
 
+body {
+  font-family: 'Palatino Linotype', Palatino, Book Antiqua, serif;
+}
+
 .author__avatar {
   display: none;
 }
