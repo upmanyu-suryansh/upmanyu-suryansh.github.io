@@ -58,12 +58,14 @@ body {
   display: none;
 }
 
-.page {
-  max-width: 3000px;  /* try different values here */
+#main {
+  max-width: 100%;
 }
 
-.page__inner-wrap {
-  max-width: 3000px;  /* keep this the same as above */
+article.page {
+  width: 100%;
+  max-width: 100%;
+  padding-right: 0;
 }
 
 .page__title {
