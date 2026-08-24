@@ -57,3 +57,11 @@ body {
 .page__footer {
   display: none;
 }
+
+.page {
+  max-width: 1000px;  /* try different values here */
+}
+
+.page__inner-wrap {
+  max-width: 1000px;  /* keep this the same as above */
+}
