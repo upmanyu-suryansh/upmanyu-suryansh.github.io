@@ -11,7 +11,7 @@ author_profile: true
 (with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
 The unemployment rate for young college graduates has worsened in recent years. This 
 has happened along with a rise in demand for noncognitive skills by
-employers. We argue that noncognitive skills can only be accumulated on the job, so that the
+employers. We argue that noncognitive skills can only be accumulated on the job, implying that the
 increase in demand for such skills harms young workers disproportionately since they
 enter the labor market without any work experience. We use a general equilibrium search-and-matching model
 with heterogeneous firms and workers, calibrated to the US labor market during the early 2010s to study this mechanism.
