@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Technical Change, Skill Complementarity and the Stagnating Fortunes of the Young** (Draft coming soon!)  
+**Which Skills Matter? The Struggles of Young College Graduates in the Labor Market** (Draft coming soon!)  
 (with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
 The unemployment rate for young college graduates has worsened in recent years. This 
 has happened along with a rise in demand for noncognitive skills by
