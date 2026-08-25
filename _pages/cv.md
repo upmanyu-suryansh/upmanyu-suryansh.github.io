@@ -11,5 +11,5 @@ redirect_from:
 
 [Download CV (PDF)](/files/Suryansh_Upmanyu_CV.pdf)
 
-<iframe src="/files/cv_april_2026.pdf" width="100%" height="800px">
+<iframe src="/files/Suryansh_Upmanyu_CV.pdf" width="100%" height="800px">
 </iframe>
