@@ -66,6 +66,6 @@ article.page {
   padding-right: 1em;
 }
 
-.page__inner-wrap header {
-  display: none;
+.page__content h2:first-child {
+  margin-top: 0;
 }
