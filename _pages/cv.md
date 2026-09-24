@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/Suryansh_Upmanyu_CV.pdf){:target="_blank"}
+[Download CV (PDF)](/files/Suryansh_Upmanyu_CV.pdf)
 
 <iframe src="/files/Suryansh_Upmanyu_CV.pdf" width="100%" height="800px">
 </iframe>
