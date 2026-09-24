@@ -22,7 +22,7 @@ the unemployment rate for young college graduates.
 
 ## Working Papers
 
-**How Much Can I Make? Cross-Firm Pay Transparency’s Effects On the US Labor Market** (Submitted)  
+**How Much Can I Make? Cross-Firm Pay Transparency’s Effects On the US Labor Market** *(Submitted)*  
 (with [Raymond He](https://raymondxuanhe.github.io/))  
 Many major US jurisdictions have implemented pay transparency laws that require firms to
 advertise wage offers in vacancy postings. Using data on the near universe of job postings
