@@ -18,7 +18,7 @@ with heterogeneous firms and workers, calibrated to the US labor market during t
 Our model shows that skill-biased technical change shifts
 employer demand towards high-skilled workers, and this explains 36% of the worsening of
 the unemployment rate for young college graduates.  
-[[Paper](/files/jmp_suryansh_latest.pdf)]
+[[Paper](/files/jmp_suryansh_latest.pdf){:target="_blank"}]
 
 ## Working Papers
 
@@ -31,7 +31,7 @@ laws increased the fraction of postings with wage information by 24.7 percentage
 This translated to average real wage increases of 3.2% - 4.4% in Colorado and 0.6% - 1.3%
 in California and Washington. We further consistently find significant positive effects on
 real wages for workers who are male, have a college degree, or are over forty years old.  
-[[Paper](/files/pay_transparency_manuscript.pdf)] [[Online Appendix](/files/pay_transparency_online_appendix.pdf)] [[Slides](/files/pay_transparency_isi_slides.pdf)]
+[[Paper](/files/pay_transparency_manuscript.pdf){:target="_blank"}] [[Online Appendix](/files/pay_transparency_online_appendix.pdf){:target="_blank"}] [[Slides](/files/pay_transparency_isi_slides.pdf){:target="_blank"}]
 
 **Can A More Generous US Unemployment Insurance System Improve Job Outcomes?**  
 I study the effects of unemployment insurance (UI) on an unemployed individual’s job outcomes upon re-employment using data from the
