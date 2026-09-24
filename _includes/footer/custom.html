@@ -14,8 +14,8 @@
 </script>
 
 <script>
-  document.querySelectorAll('a[href^="http"]').forEach(a => {
-    if (a.hostname !== location.hostname) {
+  document.querySelectorAll('a[href]').forEach(a => {
+    if (a.hostname !== location.hostname || a.pathname.endsWith('.pdf')) {
       a.target = "_blank";
       a.rel = "noopener";
     }
