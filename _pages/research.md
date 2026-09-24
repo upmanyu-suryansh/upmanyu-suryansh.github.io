@@ -8,7 +8,7 @@ author_profile: true
 ## Job Market Paper
 
 **Which Skills Matter? Why New College Graduates Are Falling Behind**  
-(with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
+(with [Aniket Baksy](https://anikbak.github.io/){:target="_blank"} and [Anushka Mitra](https://anushkamitra.com/){:target="_blank"})   
 The unemployment rate for young college graduates has worsened in recent years. This 
 has happened along with a rise in demand for noncognitive skills by
 employers. We argue that noncognitive skills can only be accumulated on the job, implying that the
@@ -23,7 +23,7 @@ the unemployment rate for young college graduates.
 ## Working Papers
 
 **How Much Can I Make? Cross-Firm Pay Transparency’s Effects On the US Labor Market** (Submitted)  
-(with [Raymond He](https://raymondxuanhe.github.io/))  
+(with [Raymond He](https://raymondxuanhe.github.io/){:target="_blank"})  
 Many major US jurisdictions have implemented pay transparency laws that require firms to
 advertise wage offers in vacancy postings. Using data on the near universe of job postings
 and representative survey data in a difference-in-differences framework, we find that these
