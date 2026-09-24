@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Which Skills Matter? Why New College Graduates Are Falling Behind** (Draft coming soon!)  
+**Which Skills Matter? Why New College Graduates Are Falling Behind**  
 (with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
 The unemployment rate for young college graduates has worsened in recent years. This 
 has happened along with a rise in demand for noncognitive skills by
@@ -17,7 +17,8 @@ enter the labor market without any work experience. We use a general equilibrium
 with heterogeneous firms and workers, calibrated to the US labor market during the early 2010s to study this mechanism.
 Our model shows that skill-biased technical change shifts
 employer demand towards high-skilled workers, and this explains 36% of the worsening of
-the unemployment rate for young college graduates.
+the unemployment rate for young college graduates.  
+[[Paper](/files/jmp_suryansh_latest.pdf)]
 
 ## Working Papers
 
