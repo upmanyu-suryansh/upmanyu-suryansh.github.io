@@ -8,7 +8,7 @@ author_profile: true
 ## Job Market Paper
 
 **Which Skills Matter? Why New College Graduates Are Falling Behind**  
-(with [Aniket Baksy](https://anikbak.github.io/){:target="_blank"} and [Anushka Mitra](https://anushkamitra.com/){:target="_blank"})   
+(with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
 The unemployment rate for young college graduates has worsened in recent years. This 
 has happened along with a rise in demand for noncognitive skills by
 employers. We argue that noncognitive skills can only be accumulated on the job, implying that the
@@ -18,12 +18,12 @@ with heterogeneous firms and workers, calibrated to the US labor market during t
 Our model shows that skill-biased technical change shifts
 employer demand towards high-skilled workers, and this explains 36% of the worsening of
 the unemployment rate for young college graduates.  
-[[Paper](/files/jmp_suryansh_latest.pdf){:target="_blank"}]
+[[Paper](/files/jmp_suryansh_latest.pdf)]
 
 ## Working Papers
 
 **How Much Can I Make? Cross-Firm Pay Transparency’s Effects On the US Labor Market** (Submitted)  
-(with [Raymond He](https://raymondxuanhe.github.io/){:target="_blank"})  
+(with [Raymond He](https://raymondxuanhe.github.io/))  
 Many major US jurisdictions have implemented pay transparency laws that require firms to
 advertise wage offers in vacancy postings. Using data on the near universe of job postings
 and representative survey data in a difference-in-differences framework, we find that these
@@ -31,7 +31,7 @@ laws increased the fraction of postings with wage information by 24.7 percentage
 This translated to average real wage increases of 3.2% - 4.4% in Colorado and 0.6% - 1.3%
 in California and Washington. We further consistently find significant positive effects on
 real wages for workers who are male, have a college degree, or are over forty years old.  
-[[Paper](/files/pay_transparency_manuscript.pdf){:target="_blank"}] [[Online Appendix](/files/pay_transparency_online_appendix.pdf){:target="_blank"}] [[Slides](/files/pay_transparency_isi_slides.pdf){:target="_blank"}]
+[[Paper](/files/pay_transparency_manuscript.pdf)] [[Online Appendix](/files/pay_transparency_online_appendix.pdf)] [[Slides](/files/pay_transparency_isi_slides.pdf)]
 
 **Can A More Generous US Unemployment Insurance System Improve Job Outcomes?**  
 I study the effects of unemployment insurance (UI) on an unemployed individual’s job outcomes upon re-employment using data from the
