@@ -15,7 +15,7 @@ Fall 2025 - Present
 **Macroeconomic Theory**
 For Prof. Trenton Herriford, Spring 2025
 
-**International Economics**
+**International Economics** (Graduate)
 For Prof. Trenton Herriford, Fall 2024
 
 **Introduction To Microeconomics**
