@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage!
+Welcome to my webpage! I am a Ph.D. candidate in the Economics department at the University of Texas at Austin. My research interests lie in macroeconomics and labor economics. 
 
-I am a 5th-year Ph.D. student in Economics at the University of Texas at Austin. My research interests lie in macroeconomics and labor economics. In my research, I use data on job postings to study how shifts in firms' labor demand shape aggregate labor market outcomes, with implications for labor market policy.
+In my research, I use data on job postings to study how shifts in firms' labor demand shape aggregate labor market outcomes, with implications for labor market policy.
+
+**I am on the job market in the academic year 2026-2027.**
