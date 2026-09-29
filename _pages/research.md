@@ -7,7 +7,7 @@ author_profile: false
 
 ## Job Market Paper
 
-**Which Skills Matter? Why New College Graduates Are Falling Behind**  
+**Soft Skills, Hard Times: Why New College Graduates Are Falling Behind**  
 (with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
 The unemployment rate for young college graduates has worsened in recent years. This 
 has happened along with a rise in demand for noncognitive skills by
