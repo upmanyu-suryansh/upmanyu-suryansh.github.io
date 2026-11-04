@@ -9,7 +9,7 @@ author_profile: false
 
 **Soft Skills, Hard Times: Why New College Graduates Are Falling Behind**  
 (with [Aniket Baksy](https://anikbak.github.io/) and [Anushka Mitra](https://anushkamitra.com/))   
-The labor market outcomes for young college graduates have been worsening since the Great Recession. We document that this secular trend coincides with a rise in demand for soft skills by employers. We propose that this shift in skill demand disproportionately affects young workers, who have had less opportunity to accumulate these skills through on-the-job experience. To quantify this mechanism, we build a general equilibrium search model with heterogeneous agents and on-the-job skill accumulation, calibrated to the US labor market. A rise in demand for soft skills explains about one-third of the increase in the unemployment rate of young college graduates in this model.
+The labor market outcomes for young college graduates have been worsening since the Great Recession. We document that this secular trend coincides with a rise in demand for soft skills by employers. We propose that this shift in skill demand disproportionately affects young workers, who have had less opportunity to accumulate these skills through work experience. To quantify this mechanism, we build a general equilibrium search model with heterogeneous agents and on-the-job skill accumulation, calibrated to the US labor market. In this model, a rise in demand for soft skills explains about one-fifth of the increase in the unemployment rate of young workers relative to older workers.
 [[Paper](/files/jmp_suryansh_latest.pdf)]
 
 ## Working Papers
